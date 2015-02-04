@@ -1,0 +1,19 @@
+{
+  "name": "head-tail",
+  "version": "0.0.1",
+  "description": "",
+  "keywords": [],
+  "author": {
+    "name": "Isabek",
+    "email": "isabek2309@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Isabek/head-tail.git"
+  },
+  "devDependencies": {
+    "concat-stream": "1.4.7",
+    "through": "~0.1.4",
+    "split": "0.3.3"
+  }
+}
